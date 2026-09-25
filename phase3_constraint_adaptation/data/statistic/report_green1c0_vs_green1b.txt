@@ -1,0 +1,22 @@
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search green1c0 EA Search green1b
+Mean -9.273333333333335 -8.2
+Variance 25.088229885057476 14.521379310344829
+Observations 30 30
+Hypothesized Mean Difference 0
+df 58
+t Stat -0.9341034273927292
+P(T<=t) one-tail 0.17706162906781744
+t Critical one-tail 1.6715527624548587
+P(T<=t) two-tail 0.3541232581356349
+t Critical two-tail 2.0017174841452356
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search green1c0 EA Search green1b
+Mean -9.273333333333335 -8.2
+Variance 25.088229885057476 14.521379310344829
+Observations 30 30
+df 29 29
+F 1.7276754052684906
+P(F<=f) one-tail 0.0734255987913982
+F Critical one-tail 2.100995817284212

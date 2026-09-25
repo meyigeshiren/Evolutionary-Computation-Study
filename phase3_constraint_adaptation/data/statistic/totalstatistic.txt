@@ -1,0 +1,129 @@
+1.report_green1c0_vs_green1b
+
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search green1c0 EA Search green1b
+Mean -9.273333333333335 -8.2
+Variance 25.088229885057476 14.521379310344829
+Observations 30 30
+Hypothesized Mean Difference 0
+df 58
+t Stat -0.9341034273927292
+P(T<=t) one-tail 0.17706162906781744
+t Critical one-tail 1.6715527624548587
+P(T<=t) two-tail 0.3541232581356349
+t Critical two-tail 2.0017174841452356
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search green1c0 EA Search green1b
+Mean -9.273333333333335 -8.2
+Variance 25.088229885057476 14.521379310344829
+Observations 30 30
+df 29 29
+F 1.7276754052684906
+P(F<=f) one-tail 0.0734255987913982
+F Critical one-tail 2.100995817284212
+
+2.report_green1c0_vs_green1c1
+
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search green1c0 EA Search green1c1
+Mean -9.273333333333335 -16.153333333333332
+Variance 25.088229885057476 10.865333333333332
+Observations 30 30
+Hypothesized Mean Difference 0
+df 50
+t Stat 6.28460659099522
+P(T<=t) one-tail 3.900073663178225e-08
+t Critical one-tail 1.6758093615485798
+P(T<=t) two-tail 7.80014732635645e-08
+t Critical two-tail 2.00840862569755
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search green1c0 EA Search green1c1
+Mean -9.273333333333335 -16.153333333333332
+Variance 25.088229885057476 10.865333333333332
+Observations 30 30
+df 29 29
+F 2.3090161263704885
+P(F<=f) one-tail 0.01380504429469287
+F Critical one-tail 2.100995817284212
+
+
+3.report_green1c1_vs_green1b
+
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search green1c1 EA Search green1b
+Mean -16.153333333333332 -8.2
+Variance 10.865333333333332 14.521379310344829
+Observations 30 30
+Hypothesized Mean Difference 0
+df 58
+t Stat -8.645827740074278
+P(T<=t) one-tail 2.558365459866877e-12
+t Critical one-tail 1.6715527624548587
+P(T<=t) two-tail 5.116730919733754e-12
+t Critical two-tail 2.0017174841452356
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search green1c1 EA Search green1b
+Mean -16.153333333333332 -8.2
+Variance 10.865333333333332 14.521379310344829
+Observations 30 30
+df 29 29
+F 1.336487235582111
+P(F<=f) one-tail 0.21978242152307648
+F Critical one-tail 2.100995817284212
+
+
+4.report_red1c_vs_green1c1
+
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search red1c EA Search green1c1
+Mean -16.006666666666668 -16.153333333333332
+Variance 9.104781609195403 10.865333333333332
+Observations 30 30
+Hypothesized Mean Difference 0
+df 58
+t Stat 0.17976360415448633
+P(T<=t) one-tail 0.4289823646128041
+t Critical one-tail 1.6715527624548587
+P(T<=t) two-tail 0.8579647292256082
+t Critical two-tail 2.0017174841452356
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search red1c EA Search green1c1
+Mean -16.006666666666668 -16.153333333333332
+Variance 9.104781609195403 10.865333333333332
+Observations 30 30
+df 29 29
+F 1.193365618167036
+P(F<=f) one-tail 0.31860643008787803
+F Critical one-tail 2.100995817284212
+
+
+5.report_yellow1c_vs_green1c0
+
+T-Test: Two-sample unpaired T-test for equality of means
+EA Search yellow1c EA Search green1c0
+Mean -16.706666666666667 -9.273333333333335
+Variance 10.909609195402298 25.088229885057476
+Observations 30 30
+Hypothesized Mean Difference 0
+df 50
+t Stat -6.785877572918183
+P(T<=t) one-tail 6.366955166926883e-09
+t Critical one-tail 1.6757724095049558
+P(T<=t) two-tail 1.2733910333853766e-08
+t Critical two-tail 2.008350498496773
+---
+F-Test: Two-sample F-test for equality of variances
+EA Search yellow1c EA Search green1c0
+Mean -16.706666666666667 -9.273333333333335
+Variance 10.909609195402298 25.088229885057476
+Observations 30 30
+df 29 29
+F 2.2996451509583458
+P(F<=f) one-tail 0.014176526124069055
+F Critical one-tail 2.100995817284212
+
+
